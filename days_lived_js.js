@@ -6,7 +6,7 @@ function days_lived(age, days_per_year) {
   return age * days_per_year;
 }
 
-alert(`You have lived approximately ${days_lived(age, days_per_year)} days.`)
+alert(`You have lived approximately ${days_lived(age, days_per_year)} days.`);
 
 // Calculate # of days lived by birthday
 // let birthday = new Date(prompt("When is your birthday? "));
